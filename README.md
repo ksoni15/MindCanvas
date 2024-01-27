@@ -1,7 +1,7 @@
 <div align='center'>
 
-<h1>MindCanvas—where creativity meets AI!</h1>
-<p>AI image generator using Dall-E openAI API</p>
+<h1>MindCanvas</h1>
+<p>Image generator —where creativity meets AI!</p>
 
 <h4> <a href=https://marvelous-moonbeam-1db950.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Report Bug </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Request Feature </a> </h4>
 
