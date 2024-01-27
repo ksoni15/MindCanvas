@@ -1,9 +1,9 @@
 <div align='center'>
 
-<h1>AI Image generator</h1>
+<h1>MindCanvas—where creativity meets AI!</h1>
 <p>AI image generator using Dall-E openAI API</p>
 
-<h4> <a href=https://marvelous-moonbeam-1db950.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/Hurabono/AI Image generator/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/Hurabono/AI Image generator/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/Hurabono/AI Image generator/issues"> Request Feature </a> </h4>
+<h4> <a href=https://marvelous-moonbeam-1db950.netlify.app/>View Demo</a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Report Bug </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Request Feature </a> </h4>
 
 
 </div>
@@ -17,7 +17,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href="https://marvelous-moonbeam-1db950.netlify.app/"><img src="https://static.wixstatic.com/media/4cff20_bb7e2674851e4c86b5749ce2d36a9017~mv2.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://marvelous-moonbeam-1db950.netlify.app/"><img src="./client/public/logo-color.png" alt='image' width='800'/></a> </div>
 
 
 
@@ -43,7 +43,7 @@ npm install
 Clone the project
 
 ```bash
-https://github.com/hurabono/img-generator
+https://github.com/ksoni15/MindCanvas
 ```
 Client side
 ```bash
