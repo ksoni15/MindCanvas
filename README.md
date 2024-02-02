@@ -3,7 +3,7 @@
 <h1>MindCanvas</h1>
 <p>Image generator — where creativity meets AI!</p>
 
-<h4> <a href="https://leafy-cascaron-c7452d.netlify.app//">View Demo</a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Report Bug </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Request Feature </a> </h4>
+<h4> <a href="https://mindcanvas369.netlify.app/">View Demo</a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Report Bug </a> <span> · </span> <a href="https://github.com/ksoni15/MindCanvas/blob/main/README.md"> Request Feature </a> </h4>
 
 
 </div>
@@ -17,7 +17,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href="https://marvelous-moonbeam-1db950.netlify.app/"><img src="./client/public/logo-color.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://mindcanvas369.netlify.app/"><img src="./client/public/logo-color.png" alt='image' width='800'/></a> </div>
 
 
 
